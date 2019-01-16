@@ -1,0 +1,27 @@
+categories: 카테고리
+search: 검색
+tags: 테그
+tagcloud: 테그 클라우드
+prev: 이전
+next: 다음
+prev-post: '이전: '
+next-post: '다음: '
+search-load:  로딩 중...
+comment: 댓글
+contents: 본문
+archive_a: 저장됨
+archive_b: "저장됨: %s"
+archive_date: "%b %Y"
+page: 페이지 %d
+recent_posts: 최근 글
+menu: 메뉴
+weibo: Weibo
+links: 링크
+rss: RSS
+doubanshow: Douban Show
+github-card: Github 카드
+showsidebar: 사이드바 보기
+hidesidebar: 사이드바 감추기
+updated: 업데이트
+totop: 맨 위로
+datepublished: 게시된 날짜
